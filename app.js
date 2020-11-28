@@ -1,7 +1,6 @@
 // fs.writeFileSync('notes.js','const getNotes=()=>{return()}')
 // const fs = require('fs')
 // const validator = require('validator')
-// console.log(validator.isURL('furqanashraf'))
 const notes = require("./notes.js");
 const yargs = require("yargs");
 
